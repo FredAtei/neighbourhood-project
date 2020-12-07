@@ -21,6 +21,7 @@ User's can share posts which relates to them and the neighbourhood is kept updat
 # Setup Installation
 
 - Clone or download and unzip the repository from github 
+- cd neighbourhood-project
 
 ## To get to the app
 
