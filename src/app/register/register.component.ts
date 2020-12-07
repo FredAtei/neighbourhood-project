@@ -21,7 +21,7 @@ export class RegisterComponent implements OnInit {
 
   }
 
-  signup(Username: string,Email: string, Password1: string, Password2: string) {
+  signupUser(Username: string,Email: string, Password1: string, Password2: string) {
     console.log('Username,Email,Password1,Password2 ', Username,Email,Password1,Password2);
 
     this.authService.signup(Username, Email, Password1, Password2).subscribe(
