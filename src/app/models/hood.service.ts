@@ -10,13 +10,13 @@ const newUrl = 'https://backend-hood.herokuapp.com/api/hood/hood-id';
 })
 export class HoodService {
 
-  constructor(private http:HttpClient) { }
+  constructor(private http: HttpClient) { }
   public getHouses(): Observable<any> {
     return this.http.get(baseUrl);
   }
 
   newHouse(data): Observable<any> {
-    return this.http.post(baseUrl,data);
+    return this.http.post(baseUrl, data);
   }
 
   getHouse(id): Observable<any> {
