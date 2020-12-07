@@ -9,7 +9,7 @@ import { tap, catchError, shareReplay } from 'rxjs/operators';
 export class LoginService {
   private apiRoot = ' https://backend-hood.herokuapp.com/auth/login/';
 
-  constructor(private http: HttpClient) {}
+  constructor(private http: HttpClient) { }
 
   private handleError<T>(operation = 'operation', result?: T) {
     return (error: any): Observable<T> => {
@@ -24,7 +24,7 @@ export class LoginService {
     };
   }
   login(username: string, password: string) {
-    return this.http.post(this.apiRoot, { username,password }).pipe(
+    return this.http.post(this.apiRoot, { username, password }).pipe(
       tap((response) => {
         console.log('Home response ', response);
       }),
