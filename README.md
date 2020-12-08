@@ -1,4 +1,8 @@
 # Neighbourhood
+
+## Attached link to the Frontend of the Neighbourhood application.
+[Front End](https://github.com/FredAtei/neighbourhood-project)
+
 <table>
 <tr>
 <td>
@@ -7,51 +11,53 @@ The Neighbourhood app is an application built to connect the people to different
 </tr>
 </table>
 
-## Author
-Fred Atei
-Lekam Charity
+## Link to the backend of the Neighbourhood application.
+ [BackEnd](https://github.com/Nelly-ayebale/Neighbourhood)
 
-## Frontend of A  Neighbourhood application.
+## Authors
+* [Lekamcharity](https://github.com/LekamCharity) 
+* [FredAtei](https://github.com/FredAtei)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.3.
+## User Stories
+User's can share posts which relates to them and the neighbourhood is kept updated by reading various posts. The user needs to be registered in order to use the application. A user can only be in one neighbourhood at a time and s/he can also change to another when moving out. 
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+# Setup Installation
 
-## Code scaffolding
+- Clone or download and unzip the repository from github 
+- cd neighbourhood-project
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## To get to the app
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+* Install the latest version of the node.
+* Install Angular CLI.
+* Run the project.
 
 ## Built with 
 
-- [Visual Studio Code](https://code.visualstudio.com/) - Extensive list of components and  Bundled Javascript plugins.
-- [Angular10](https://angular.io/) - Angular is built by a team of engineers who share a passion for making web development feel effortless. We believe that writing beautiful apps should be joyful and fun. We're building a platform for the future.
+* [Visual Studio Code](https://code.visualstudio.com/) - Extensive list of components and  Bundled Javascript plugins.
+* [Angular10](https://angular.io/) - Angular is built by a team of engineers who share a passion for making web development feel effortless. We believe that writing beautiful apps should be joyful and fun. We're building a platform for the future.
+* HTML
+* CSS
+
+### How to deploy to Netlify.
+
+* Login to Netlify and Click the Add A New Project if you are just starting out.
+* Be sure to push your repo to GitHub and link Netlify to Github.
+* Authorize Netlify.
+* Select Your Repository.
+* Configure Your Settings: Make sure your publish directory is where your public site files are placed after building the site (e.g. dist) and your build command is whatever you run to build the site (e.g. npm run build). Then click the Deploy site button to continue.
+* Build Your Site. 
+
+## Known Bugs
+There are no known bugs.
 
 ## Contact
 
 Reach Out: akamaatei@gmail.com
-          
+
+## License
+MIT © [Fred Atei ](https://github.com/FredAtei/neighbourhood-project)
 
 ## Copyright
 © 2020
-
-## [License](https://github.com/FredAtei/neighbourhood-project/blob/master/LICENSE)
-
-MIT © [Fred Atei ](https://github.com/FredAtei/neighbourhood-project)
