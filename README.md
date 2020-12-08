@@ -11,8 +11,11 @@ The Neighbourhood app is an application built to connect the people to different
 </tr>
 </table>
 
+## Figma
+[Figma Click To View](https://www.figma.com/file/a4tGRwJ5sTtssnjOZhjIHY/Neighbourhood?node-id=0%3A1)
+
 ## Link to the backend of the Neighbourhood application.
- [BackEnd](https://github.com/Nelly-ayebale/Neighbourhood)
+ [BackEnd Click To View](https://github.com/Nelly-ayebale/Neighbourhood)
 
 ## Authors
 * [Lekamcharity](https://github.com/LekamCharity) 
