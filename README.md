@@ -1,6 +1,7 @@
 # Neighbourhood
 
-## Frontend of A  Neighbourhood application.
+## Attached link to the Frontend of the Neighbourhood application.
+[Front End](https://github.com/FredAtei/neighbourhood-project)
 
 <table>
 <tr>
@@ -10,7 +11,7 @@ The Neighbourhood app is an application built to connect the people to different
 </tr>
 </table>
 
-## Link to the backend of the Neighbourhood application
+## Link to the backend of the Neighbourhood application.
  [BackEnd](https://github.com/Nelly-ayebale/Neighbourhood)
 
 ## Authors
